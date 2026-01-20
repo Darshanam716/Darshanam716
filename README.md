@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **amdarshan557@gmail.com**
 
-📄 My Experiences You can view my detailed experiences and portfolio here: [📂 Google Drive Document](https://drive.google.com/file/d/1bMZQDox_8Yh8VJmmuhy8RxUouTr0fVWz/view?usp=sharing)
+📄 My Experiences You can view my detailed experiences and portfolio here: [Resume](https://drive.google.com/file/d/1bMZQDox_8Yh8VJmmuhy8RxUouTr0fVWz/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
