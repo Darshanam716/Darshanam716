@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **amdarshan557@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ER8ZrwGjmn5IR9aSI1Oh5w7l-RQD9d7G/view](https://drive.google.com/file/d/1ER8ZrwGjmn5IR9aSI1Oh5w7l-RQD9d7G/view)
+📄 My Experiences You can view my detailed experiences and portfolio here: [📂 Google Drive Document](https://drive.google.com/file/d/1bMZQDox_8Yh8VJmmuhy8RxUouTr0fVWz/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
