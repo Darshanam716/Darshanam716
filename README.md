@@ -1,25 +1,103 @@
-<h1 align="center">Hi 👋, I'm Darshan A M</h1>
-<h3 align="center">Aspiring Software Developer</h3>
+<h1 align="center">Hey 👋, I'm Darshan A M</h1>
+<h3 align="center">AI/ML Engineer • Computer Vision Developer • Full Stack Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darshanam716&label=Profile%20views&color=0e75b6&style=flat" alt="darshanam716" /> </p>
-
-- 👨‍💻 All of my projects are available at [https://darshanamportfolio.vercel.app/](https://darshanamportfolio.vercel.app/)
-
-- 📫 How to reach me **amdarshan557@gmail.com**
-
-📄 My Experiences You can view my detailed experiences and portfolio here: [Resume](https://drive.google.com/file/d/1bMZQDox_8Yh8VJmmuhy8RxUouTr0fVWz/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/darshan64273074" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darshan64273074" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/darshan-a-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darshan-a-m" height="30" width="40" /></a>
-<a href="https://fb.com/lovelydarshan.darshu.96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lovelydarshan.darshu.96" height="30" width="40" /></a>
-<a href="https://instagram.com/t_o_xi_c_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="t_o_xi_c_02" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Developer;Computer+Vision+Engineer;Full+Stack+Developer;Building+Real+World+AI+Solutions;Always+Learning+New+Technologies" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=darshanam716&show_icons=true&locale=en&layout=compact" alt="darshanam716" /></p>
+## 🚀 About Me
+- 🎓 Computer Science Engineer (CGPA: 8.54)
+- 🤖 Passionate about AI, ML & Computer Vision
+- 🛠 Building intelligent surveillance & automation systems
+- 💻 Interested in AI/ML & Full Stack roles
+- 📍 Bangalore, India
 
+---
 
+## 🧠 Tech Stack
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white)
+
+### AI / ML / Deep Learning
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-brightgreen?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-red?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-blue?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-purple?style=for-the-badge)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-black?style=for-the-badge)
+![CNN](https://img.shields.io/badge/CNN-orange?style=for-the-badge)
+![LSTM](https://img.shields.io/badge/LSTM-blue?style=for-the-badge)
+![ANN](https://img.shields.io/badge/ANN-green?style=for-the-badge)
+![VGG](https://img.shields.io/badge/VGG-Network-red?style=for-the-badge)
+
+### Libraries & Frameworks
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white)
+
+### Databases & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🏆 Featured Projects
+
+### 🎯 CheatShield AI – Smart Exam Surveillance
+- Real-time cheating detection
+- Face detection & recognition
+- Phone detection using YOLOv8
+- Automated violation reporting
+
+### 🚑 Crisis Connector
+- MERN stack emergency service platform
+- Real-time mapping & service integration
+- Authentication & emergency coordination
+
+### 🎥 Smart Exam Surveillance System
+- Multi-face monitoring
+- Suspicious behavior detection
+- Automated attendance & reporting
+
+---
+
+## 🏅 Achievements
+- 🥈 Runner-Up – IDEATHON-2K24
+- 🏆 BRIN-HACK National Hackathon
+- 🐞 YUKTI-2K25 Bug Quest
+- 🚀 0-1 Hackathon – IIIT Delhi
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Darshanam716&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darshanam716&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: amdarshan557@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/darshan-a-m
+- 🌐 Portfolio: https://darshanamportfolio.vercel.app/
+
+---
+
+## ⚡ Motto
+> Building AI systems that solve real-world problems 🚀
