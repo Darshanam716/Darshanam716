@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Darshan A M</h1>
+<h1 align="center">Hey, I'm Darshan A M</h1>
 <h3 align="center">AI/ML Engineer • Computer Vision Developer • Full Stack Enthusiast</h3>
 
 <p align="center">
