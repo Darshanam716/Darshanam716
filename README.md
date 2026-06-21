@@ -55,20 +55,33 @@
 ## 🏆 Featured Projects
 
 ### 🎯 CheatShield AI – Smart Exam Surveillance
-- Real-time cheating detection
-- Face detection & recognition
-- Phone detection using YOLOv8
-- Automated violation reporting
+
+* AI-powered examination monitoring system
+* Face recognition and YOLOv8-based phone detection
+* Real-time behavior analysis and violation detection
+* Automated attendance tracking and reporting
+
+### 🧠 ScholAR – Explainable AI for Alzheimer's Detection
+
+* Multimodal AI using MRI scans and clinical data
+* 3D U-Net segmentation, ResNet, and Vision Transformer models
+* Grad-CAM based explainability for transparent predictions
+* Research validation using PubMed, Semantic Scholar, and arXiv
+
+### 🛡️ RED vs BLUE AI Defence System
+
+* AI-driven cybersecurity simulation platform
+* Red AI continuously generates evolving attack strategies
+* Blue AI autonomously learns, adapts, and strengthens defenses
+* Real-time cyber warfare environment with adaptive threat detection
 
 ### 🚑 Crisis Connector
-- MERN stack emergency service platform
-- Real-time mapping & service integration
-- Authentication & emergency coordination
 
-### 🎥 Smart Exam Surveillance System
-- Multi-face monitoring
-- Suspicious behavior detection
-- Automated attendance & reporting
+* MERN stack emergency service platform
+* Real-time mapping and emergency service integration
+* Secure authentication and coordination system
+* Connects hospitals, police, fire, and medical services
+
 
 ---
 
